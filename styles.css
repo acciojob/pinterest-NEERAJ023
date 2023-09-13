@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+img{
+	width:400px;
+	height:240px;
+	object-fit:cover;
+}
+button{
+	padding:4px;
+		background-color:red;
+	color:white;
+	border-radius:5px;
+}
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	border:2px solid;
+}
+#neeraj{
+	text-align:center;
+	padding:20px;
+}
